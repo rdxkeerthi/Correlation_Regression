@@ -61,5 +61,4 @@ plt.legend(['Regression Line','Data points'])
 
 # Result
 ![image](https://github.com/user-attachments/assets/7d6f39f5-c19b-404b-b5a0-6be4ee926e4b)
-
-# Output 
+ 
